@@ -250,7 +250,8 @@ Publish the website in the LocalHost.
 ## OUTPUT:
 NAME:SANJIT P
 REGISTER NO:212223230190
-[Screenshot 2024-05-08 090538](https://github.com/Sanjit2328/softweb/assets/139331694/d1c2b1f4-aa57-4d8f-8568-884cba2b139d)
+![Screenshot 2024-05-08 090258](https://github.com/Sanjit2328/Pharma/assets/139331694/6c97ee58-ac6b-4d00-a406-7c549a44accb)
+
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
